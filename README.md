@@ -1,0 +1,2 @@
+# autoWJ
+Automação teste WJ
